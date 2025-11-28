@@ -1,0 +1,12 @@
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\AIService.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\controller\JobController.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\controller\ResumeController.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\dao\JobDAO.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\dao\ResumeDAO.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\DatabaseManager.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\JobMatcher.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\Main.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\model\Job.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\model\JobMatchResult.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\model\Resume.java
+C:\Java Selenium\ai-resume-analyzer\src\main\java\com\resumeai\ResumeParser.java
